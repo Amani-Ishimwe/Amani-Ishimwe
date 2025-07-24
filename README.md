@@ -7,12 +7,6 @@ Welcome to my GitHub profile!
 Tech Enthusiast | UI/UX Designer
 I am passionate about technology, design, and creating impactful solutions. I enjoy developing intuitive user interfaces and crafting seamless user experiences.
 
-## 📊 GitHub Stats
-
-- **Followers:** 2
-- **Following:** 4
-- **Public Repositories:** 24
-
 ## 🛠️ What I Do
 
 - UI/UX Design
@@ -35,6 +29,5 @@ Feel free to explore my work and connect with me on [GitHub](https://github.com/
 
 ---
 
-*This README was auto-generated to highlight your professional skills and GitHub presence.*`<h1 align="center">`Hi 👋, I'm Amani`</h1>`
 
 <h3 align="center">A Full-Stack Developer | Backend Specialist | Open Source Contributor</h3>
