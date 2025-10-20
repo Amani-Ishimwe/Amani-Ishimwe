@@ -1,65 +1,53 @@
 
-# 👋 Hi, I'm Amani Ishimwe Samuel
+# 👋 Hi, I'm **Amani Ishimwe Samuel**
 
 Welcome to my GitHub profile!
 
 ---
 
-## 👤 About Me
+## 👨‍💻 About Me
 
-**Full-Stack Developer | Backend Specialist | UI/UX Designer | Open Source Contributor**
+**Full-Stack Developer | Backend Engineer | UI/UX Designer | Open-Source Enthusiast**
 
-I’m passionate about building technology-driven solutions that merge design and functionality. My focus lies in crafting seamless user experiences and developing efficient, scalable systems for the modern web.
+I’m a multidisciplinary developer passionate about crafting solutions that combine elegant design with powerful functionality. My work focuses on building scalable systems, designing intuitive user interfaces, and contributing to impactful open-source initiatives.
 
 🌐 **Portfolio:** [amaniportofolio.netlify.app](https://amaniportofolio.netlify.app/)
 
 ---
 
-## 🛠️ What I Do
+## ⚙️ What I Do
 
-- 🎨 UI/UX Design
-- 💻 Frontend & Backend Development
-- ⚙️ API Development & System Architecture
-- 🚀 Continuous learning and exploring new technologies
-
----
-
-## 🌱 Current Interests
-
-- Building **user-centric applications**
-- Designing **modern, visually appealing interfaces**
-- Mastering **emerging backend frameworks and tools**
-- Contributing to **open-source projects**
+* 🎨 UI/UX Design & Prototyping
+* 💻 Full-Stack Web Development
+* 🧩 API Design & System Architecture
+* 🚀 Continuous Learning & Tech Exploration
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amani-Ishimwe&show_icons=true&theme=radical" alt="Amani's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amani-Ishimwe&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amani-Ishimwe&theme=radical" alt="GitHub Streak" />
-</p>
+* Developing **user-centered web applications**
+* Designing **modern, accessible interfaces**
+* Advancing skills in **backend frameworks & distributed systems**
+* Contributing to **open-source communities**
 
 ---
 
 ## 🚀 Latest Activity
 
-I regularly work on exciting projects in tech and design.
-Check out my repositories for my latest innovations and open-source contributions.
+I’m constantly working on innovative projects that merge technology and creativity.
+
+Check out my repositories to explore my latest work, experiments, and open-source contributions.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
-Let’s collaborate or exchange ideas!
+I’m always open to collaboration and sharing ideas.
 
-- 🌐 [Portfolio](https://amaniportofolio.netlify.app/)
-- 💻 [GitHub](https://github.com/Amani-Ishimwe)
+* 🌐 [Portfolio](https://amaniportofolio.netlify.app/)
+* 💻 [GitHub](https://github.com/Amani-Ishimwe)
 
 ---
 
-<h3 align="center">Crafting Scalable Systems | Designing Beautiful Interfaces | Building the Future</h3>
+<h3 align="center">⚡ Building Scalable Systems • Designing Impactful Experiences • Shaping the Future</h3>
