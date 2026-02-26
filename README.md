@@ -1,11 +1,11 @@
 
-# 👋 Hi, I'm **Amani Ishimwe Samuel**
+#  Hi, I'm **Amani Ishimwe Samuel**
 
 Welcome to my GitHub profile!
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 **Full-Stack Developer | Backend Engineer | UI/UX Designer | Open-Source Enthusiast**
 
