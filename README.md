@@ -11,20 +11,20 @@ Welcome to my GitHub profile!
 
 I’m a multidisciplinary developer passionate about crafting solutions that combine elegant design with powerful functionality. My work focuses on building scalable systems, designing intuitive user interfaces, and contributing to impactful open-source initiatives.
 
-🌐 **Portfolio:** [amaniportofolio.netlify.app](https://amaniportofolio.netlify.app/)
+ **Portfolio:** [amaniportofolio.netlify.app](https://amaniportofolio.netlify.app/)
 
 ---
 
-## ⚙️ What I Do
+##  What I Do
 
-* 🎨 UI/UX Design & Prototyping
-* 💻 Full-Stack Web Development
-* 🧩 API Design & System Architecture
-* 🚀 Continuous Learning & Tech Exploration
+*  UI/UX Design & Prototyping
+*  Full-Stack Web Development
+*  API Design & System Architecture
+*  Continuous Learning & Tech Exploration
 
 ---
 
-## 🌱 Current Focus
+##  Current Focus
 
 * Developing **user-centered web applications**
 * Designing **modern, accessible interfaces**
@@ -33,7 +33,7 @@ I’m a multidisciplinary developer passionate about crafting solutions that com
 
 ---
 
-## 🚀 Latest Activity
+##  Latest Activity
 
 I’m constantly working on innovative projects that merge technology and creativity.
 
@@ -41,13 +41,13 @@ Check out my repositories to explore my latest work, experiments, and open-sourc
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 I’m always open to collaboration and sharing ideas.
 
-* 🌐 [Portfolio](https://amaniportofolio.netlify.app/)
-* 💻 [GitHub](https://github.com/Amani-Ishimwe)
+*  [Portfolio](https://amaniportofolio.netlify.app/)
+*  [GitHub](https://github.com/Amani-Ishimwe)
 
 ---
 
-<h3 align="center">⚡ Building Scalable Systems • Designing Impactful Experiences • Shaping the Future</h3>
+<h3 align="center"> Building Scalable Systems • Designing Impactful Experiences • Shaping the Future</h3>
