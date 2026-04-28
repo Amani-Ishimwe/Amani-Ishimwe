@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm **Amani Ishimwe Samuel**
 
 Welcome to my GitHub profile!
@@ -11,7 +10,7 @@ Welcome to my GitHub profile!
 
 I’m a multidisciplinary developer passionate about crafting solutions that combine elegant design with powerful functionality. My work focuses on building scalable systems, designing intuitive user interfaces, and contributing to impactful open-source initiatives.
 
-🌐 **Portfolio:** [amaniportofolio.netlify.app](https://amaniportofolio.netlify.app/)
+🌐 **Portfolio:** [About Me](https://ishimwe-six.vercel.app)
 
 ---
 
