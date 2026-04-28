@@ -46,7 +46,7 @@ Check out my repositories to explore my latest work, experiments, and open-sourc
 
 I’m always open to collaboration and sharing ideas.
 
-* [Portfolio](https://amaniportofolio.netlify.app/)
+* [Portfolio](https://ishimwe-six.vercel.app/)
 * [GitHub](https://github.com/Amani-Ishimwe)
 
 ---
