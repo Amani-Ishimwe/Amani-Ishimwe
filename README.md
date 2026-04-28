@@ -2,18 +2,6 @@
 
 # 👋 Hi, I'm **Amani Ishimwe Samuel**
 
-=======
-
-# Hi, I'm **Amani Ishimwe Samuel**
-
->>>>>>> cd9b2d614c3751fe76c5fa4c764530908236830e
->>>>>>>
->>>>>>
->>>>>
->>>>
->>>
->>
-
 Welcome to my GitHub profile!
 
 ---
