@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 👋 Hi, I'm **Amani Ishimwe Samuel**
 
 Welcome to my GitHub profile!
